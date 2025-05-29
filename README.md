@@ -1,7 +1,7 @@
 # 🌤️ Weather Notifier
 
-# A real-time weather app built with Python and Streamlit that fetches and displays current weather data for any city   
-# using the OpenWeatherMap API.
+A real-time weather app built with Python and Streamlit that fetches and displays current weather data for any city   
+using the OpenWeatherMap API.
 
 ## Problem & Solution
 
@@ -72,7 +72,7 @@ Clone this repo:
 git clone https://github.com/your-username/weather-notifier.git
 cd weather-notifier
 
-##  Create and activate a virtual environment:
+#  Create and activate a virtual environment:
 
 # Create virtual environment
 python -m venv venv
@@ -83,19 +83,19 @@ python -m venv venv
 # Activate on macOS/Linux
 source venv/bin/activate
 
-## Install dependencies:
+# Install dependencies:
 pip install -r requirements.txt
 
-## Create a .env file and add your OpenWeatherMap API key:
+# Create a .env file and add your OpenWeatherMap API key:
 API_KEY=your_openweathermap_api_key_here
 
-## Run the app:
+# Run the app:
 streamlit run weather_notifier.py
 
 
 ---
 
-## 🚀Live Demo
+## Live Demo
 
 Try the Weather Notifier app online here:  
 - [https://weather-notifier.streamlit.app/](https://weather-notifier.streamlit.app/)  
