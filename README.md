@@ -91,3 +91,14 @@ API_KEY=your_openweathermap_api_key_here
 
 ## Run the app:
 streamlit run weather_notifier.py
+
+
+---
+
+## 🚀Live Demo
+
+Try the Weather Notifier app online here:  
+- [https://weather-notifier.streamlit.app/](https://weather-notifier.streamlit.app/)  
+- [https://weather-notifier-amarachi-flora.streamlit.app/](https://weather-notifier-amarachi-flora.streamlit.app/)
+
+Get real-time weather updates for any city, anytime.
