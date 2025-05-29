@@ -99,6 +99,6 @@ streamlit run weather_notifier.py
 
 Try the Weather Notifier app online here:  
 - [https://weather-notifier.streamlit.app/](https://weather-notifier.streamlit.app/)  
-- [https://weather-notifier-amarachi-flora.streamlit.app/](https://weather-notifier-amarachi-flora.streamlit.app/)
+
 
 Get real-time weather updates for any city, anytime.
